@@ -22,3 +22,10 @@ footer {
 footer > a {
   color: white;
 }
+
+@media (max-width: 641px) {
+  footer {
+    font-size: 2rem;
+    bottom: 30px;
+  }
+}
