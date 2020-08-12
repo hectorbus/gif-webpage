@@ -1,0 +1,24 @@
+body {
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+  background-repeat: no-repeat;
+  background-image: url("../img/meme.gif");
+  background-size: cover;
+  background-position: center;
+}
+
+footer {
+  color: white;
+  font-family: monospace;
+  font-size: 18px;
+  font-weight: bold;
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  bottom: 15px;
+}
+
+footer > a {
+  color: white;
+}
